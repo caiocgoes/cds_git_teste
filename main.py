@@ -8,6 +8,9 @@ def main():
 def div():
     n1,n2 = sum()
     print(n1/n2)
+def mult():
+    n1,n2 = sum()
+    print(n1*n2)
 if __name__ == "__main__":
     main()
     
