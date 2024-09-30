@@ -1,3 +1,7 @@
+def get_operation():
+    op = input("Operação:")
+    return op
+
 def sum(a, b):
     a = int(input("Numero 1:"))
     b = int(input("Numero 2:"))
