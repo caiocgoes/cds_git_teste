@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 def get_operation():
     op = input("Operação:")
     return op
+=======
+import test
+>>>>>>> test
 
 def sum(a, b):
     a = int(input("Numero 1:"))
