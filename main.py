@@ -1,3 +1,5 @@
+import test
+
 def sum(a, b):
     a = int(input("Numero 1:"))
     b = int(input("Numero 2:"))
